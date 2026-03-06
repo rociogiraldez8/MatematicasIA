@@ -1,0 +1,2 @@
+# MatematicasIA
+Ejercicio de proposiciones
